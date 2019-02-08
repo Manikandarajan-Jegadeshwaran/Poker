@@ -19,7 +19,7 @@ class Poker extends Component{
             cards : [1,2,3,5,8,13,21],
             teams : [
                 {
-                    name:'Manikandan',
+                    name:'Manikandanrajan',
                     estimated : false,
                     point : 0
                 },
